@@ -50,10 +50,10 @@ Orders Made:
 
     Questions for TUFERT:
     - do you have a master list of inventory?
-    - how do you keep track of inventory?
+    - how do you keep track of inventory? (any forms)
     - what items do you keep track of?
     - do you keep track of your suppliers?
-    - besides the quantity, is there any other characteristic you keep track of? (e.g. oxigen tank psi, expiry date)
+    - besides the quantity, is there any other characteristic you keep track of? (e.g. oxygen tank psi, expiry date)
     - is there anything else we are missing/ anything else we should add?
 
     Future Concerns:
