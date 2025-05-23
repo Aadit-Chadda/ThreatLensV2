@@ -1,6 +1,6 @@
 """
 
-TABLES SUGGESTIONS
+TABLES SUGGESTIONS:
 
 ----
 Inventory:
